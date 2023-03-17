@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ce2e723-ec99-4f85-861d-2824a9f5ac4b": {
+      "ProjectGuid": "2ce2e723-ec99-4f85-861d-2824a9f5ac4b",
+      "DisplayName": "PRUEBA_BRAHAN_ACOSTA",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "28d55727-2d28-4625-aefd-7e5135d3078f": {
+      "ProjectGuid": "28d55727-2d28-4625-aefd-7e5135d3078f",
+      "DisplayName": "PAGINA_PRUEBA_BRAHAN_ACOSTA",
+      "ColorIndex": 1
+    },
+    "a6cab118-e41e-467f-8bbd-27771915d52f": {
+      "ProjectGuid": "a6cab118-e41e-467f-8bbd-27771915d52f",
+      "DisplayName": "PRUEBA_BRAHAN_ACOSTA_WEB",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,273 @@
+﻿++Solución "PRUEBA_BRAHAN_ACOSTA" ‎(2 de 2 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:PRUEBA_BRAHAN_ACOSTA.sln
+++PRUEBA_BRAHAN_ACOSTA
+i:{00000000-0000-0000-0000-000000000000}:PRUEBA_BRAHAN_ACOSTA
+++Connected Services 
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:>398
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:>1076
+++Dependencias
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:>400
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:>1075
+++Properties
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\properties\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\properties\
+++Controllers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\controllers\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\controllers\
+++PacienteController.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\controllers\pacientecontroller.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\controllers\pacientecontroller.cs
+++Data
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\data\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\data\
+++Conexion.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\data\conexion.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\data\conexion.cs
+++PacientesData.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\data\pacientesdata.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\data\pacientesdata.cs
+++Models
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\models\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\models\
+++Paciente.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\models\paciente.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\models\paciente.cs
+++appsettings.json
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\appsettings.json
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\appsettings.json
+++Program.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\program.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\program.cs
+++WeatherForecast.cs
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:>399
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:>1077
+++Analizadores
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:analizadores
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:analizadores
+++Marcos de trabajo
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:marcos de trabajo
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:marcos de trabajo
+++Paquetes
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:paquetes
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:paquetes
+++launchSettings.json
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\properties\launchsettings.json
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\properties\launchsettings.json
+++appsettings.Development.json
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\appsettings.development.json
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\microsoft.aspnetcore.app
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta\microsoft.netcore.app
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\microsoft.netcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:>411
+++System.Data.SqlClient (4.8.5)
+i:{2ce2e723-ec99-4f85-861d-2824a9f5ac4b}:>478
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:>1160
+++PRUEBA_BRAHAN_ACOSTA_WEB
+i:{00000000-0000-0000-0000-000000000000}:PRUEBA_BRAHAN_ACOSTA_WEB
+++wwwroot
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\
+++HomeController.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\models\errorviewmodel.cs
+++Views
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\
+++Home
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\home\
+++Index.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\home\index.cshtml
+++Privacy.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\home\privacy.cshtml
+++Shared
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\shared\
+++_ViewImports.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\_viewstart.cshtml
+++css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\css\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\js\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\
+++favicon.ico
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\favicon.ico
+++_Layout.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\shared\error.cshtml
+++site.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\css\site.css
+++site.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\js\site.js
+++bootstrap
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\
+++jquery
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\
+++jquery-validation
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\views\shared\_layout.cshtml.css
+++dist
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\dist\
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\license.txt
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{a6cab118-e41e-467f-8bbd-27771915d52f}:c:\users\acosta.brahan\downloads\api\api_profesores\prueba_brahan_acosta\prueba_brahan_acosta_web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

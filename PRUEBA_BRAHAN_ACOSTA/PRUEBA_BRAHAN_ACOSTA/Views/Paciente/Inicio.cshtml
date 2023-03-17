@@ -1,0 +1,57 @@
+﻿@model List<PRUEBA_BRAHAN_ACOSTA.Models.Paciente>
+
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row" style="margin-top:30px;">
+    <div class="col-sm-12">
+        <div class="panel panel-warning">
+            <div class="panel-heading">
+                <h4>Lista de pacientes</h4>
+            </div>
+            <div class="panel-body">
+                <a class="btn btn-success">Crear Nuevo</a>
+                <hr />
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Tipo de documento</th>
+                                <th>N° de documento</th>
+                                <th>Nombre</th>
+                                <th>Apellidos</th>
+                                <th>Correo electronico</th>
+                                <th>Telefono</th>
+                                <th>Fecha de nacimiento</th>
+                                <th>Estado de afiliación</th>
+                                <th style="width:50px;"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (PRUEBA_BRAHAN_ACOSTA.Models.Paciente item in Model)
+                                {
+                            <tr>
+                                <td>@item.ID</td>
+                                <td>@item.TIPO_DOCUMENTO</td>
+                                <td>@item.NUMERO_DOCUMENTO</td>
+                                <td>@item.NOMBRE</td>
+                                <td>@item.APELLIDOS</td>
+                                <td>@item.CORREO_ELECTRONICO</td>
+                                <td>@item.TELEFONO</td>
+                                <td>@item.FECHA_NACIMIENTO</td>
+                                <td>@item.ESTADO_AFILIACION</td>
+                                <td></td>
+                            </tr>
+                                }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
